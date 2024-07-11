@@ -1,0 +1,72 @@
+.carousel_title {
+    width: 343px;
+    height: 94px;
+    color: var(--, #1F1D14);
+    font-family: "Fira Sans";
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: 47px;
+    /* 146.875% */
+}
+
+.carousel_btn {
+    /* color:  #1F1D14; */
+    font-family: "Fira Sans";
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    border-radius: 10px;
+    border: 2px solid #FBD029;
+    /* opacity: 0.9; */
+    padding: 15px 20px;
+    margin-top: 27px;
+
+}
+
+.text {
+    color: #1EB91E;
+    font-family: Outfit;
+    font-size: 44px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 54px;
+    /* 122.727% */
+}
+
+.carusel_btn {
+    width: 274px;
+    height: 53px;
+    color: #FFF;
+    font-family: Outfit;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 48px;
+    border-radius: 10px;
+    background: #FF6F14;
+}
+
+.carousel_title {
+    width: 631px;
+    color: #331400;
+    font-family: Outfit;
+    font-size: 44px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 54px;
+}
+
+.carousel_text {
+    width: 524px;
+    /* height: 52px; */
+    color: #000;
+    font-family: Outfit;
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 26px;
+    margin-top: 20px;
+    /* 144.444% */
+}

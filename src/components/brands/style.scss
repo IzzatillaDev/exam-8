@@ -1,0 +1,26 @@
+.first_brand {
+    border-radius: 6px;
+    background: #FFF;
+    padding: 30px 66px;
+}
+
+.all_brands{
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+    gap: 20px;
+}
+
+.brands{
+    padding-top: 66px;
+}
+
+@media screen and (max-width: 913px) {
+   .first_brand{
+    max-width: 168px;
+    height: 74px;
+   }
+
+    
+}
+
+

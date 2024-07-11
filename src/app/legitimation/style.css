@@ -1,0 +1,259 @@
+.abouts {
+    color: var(--Text-Black-40, rgba(36, 14, 0, 0.40));
+
+    /* H7/Caption/reguler 12px */
+    font-family: Outfit;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 18px;
+    border-radius: 4px;
+    background: #F5F5F5;
+    padding: 6px 18px;
+    padding-top: 12px;
+
+}
+
+.smartphones {
+    color: var(--Text-Black-40, rgba(36, 14, 0, 0.40));
+
+    /* H7/Caption/reguler 12px */
+    font-family: Outfit;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 18px;
+    border-radius: 4px;
+    background: #F5F5F5;
+    padding: 6px 18px;
+    padding-top: 12px;
+
+}
+
+.legitimations {
+    color: var(--Text-Black80, rgba(36, 14, 0, 0.80));
+
+    /* H7/Caption/reguler 12px */
+    font-family: Outfit;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 18px;
+    border-radius: 4px;
+    background: var(--Asosiy-White, #FFF);
+    padding: 6px 18px;
+    padding-top: 12px;
+
+}
+
+.phone {
+    width: 72px;
+    height: 18px;
+    color: var(--Text-Black80, rgba(36, 14, 0, 0.80));
+    text-align: center;
+
+    /* H7/Caption/reguler 12px */
+    font-family: Outfit;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 18px;
+    /* 150% */
+}
+
+.phone_inputs {
+    width: 400px;
+    height: 60px;
+    border-radius: 6px;
+    background: #F0F0F0;
+}
+
+.name {
+    width: 66px;
+    height: 18px;
+    color: var(--Text-Black80, rgba(36, 14, 0, 0.80));
+    text-align: center;
+
+    /* H7/Caption/reguler 12px */
+    font-family: Outfit;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 18px;
+    /* 150% */
+}
+
+.name_inputs {
+    width: 400px;
+    height: 60px;
+    border-radius: 6px;
+    background: #F0F0F0;
+}
+
+.region {
+    width: 38px;
+    height: 18px;
+    color: var(--Text-Black80, rgba(36, 14, 0, 0.80));
+    text-align: center;
+
+    /* H7/Caption/reguler 12px */
+    font-family: Outfit;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 18px;
+    /* 150% */
+}
+
+.select {
+    width: 400px;
+    height: 60px;
+    border-radius: 6px;
+    background: #F0F0F0;
+}
+
+.location_title {
+    width: 181px;
+    height: 18px;
+    color: var(--Text-Black80, rgba(36, 14, 0, 0.80));
+    text-align: center;
+
+    /* H7/Caption/reguler 12px */
+    font-family: Outfit;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 18px;
+    /* 150% */
+}
+
+.location_inputs {
+    width: 560px;
+    height: 60px;
+    border-radius: 6px;
+    background: #F0F0F0;
+}
+
+.time_inputs {
+    width: 241px;
+    height: 60px;
+    border-radius: 6px;
+    background: var(--Asosiy-Gray, #F0F0F0);
+}
+
+.time_title {
+    width: 110px;
+    height: 18px;
+    color: var(--Text-Black80, rgba(36, 14, 0, 0.80));
+    text-align: center;
+
+    /* H7/Caption/reguler 12px */
+    font-family: Outfit;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 18px;
+    /* 150% */
+}
+
+.first_input_card {
+    border-radius: 10px;
+    background: var(--Asosiy-White, #FFF);
+    width: 900px;
+    height: 660px;
+    padding: 44px 44px;
+    margin-top: 18px;
+}
+
+.input_sub_title {
+    width: 198px;
+    height: 36px;
+    color: var(--Asosiy-Black, #331400);
+    font-family: Outfit;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 36px;
+}
+
+.product_sub_title {
+    width: 89px;
+    height: 22px;
+    color: var(--Text-Black80, rgba(36, 14, 0, 0.80));
+
+    /* H6/Callout/reguler 16px */
+    font-family: Outfit;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 22px;
+    /* 137.5% */
+}
+
+.prodcut_number {
+    width: 32px;
+    height: 26px;
+    color: var(--Asosiy-Black, #331400);
+
+    /* H5/Bod3/Bold 18px */
+    font-family: Outfit;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 26px;
+    /* 144.444% */
+}
+
+.total {
+    width: 94px;
+    height: 22px;
+    color: var(--Text-Black80, rgba(36, 14, 0, 0.80));
+
+    /* H6/Callout/reguler 16px */
+    font-family: Outfit;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 22px;
+    /* 137.5% */
+}
+
+.all_total {
+    width: 199px;
+    height: 40px;
+    color: var(--Asosiy-Black, #331400);
+
+    /* H3/Body/Bold 28px */
+    font-family: Outfit;
+    font-size: 28px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 40px;
+    /* 142.857% */
+}
+
+.total_access {
+    color: var(--Text-Black-40, rgba(36, 14, 0, 0.40));
+    text-align: center;
+
+    /* H6/Callout/reguler 16px */
+    font-family: Outfit;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 22px;
+    /* 137.5% */
+    border-radius: 6px;
+    background: var(--Asosiy-Gray, #F0F0F0);
+    padding: 16px 43px;
+    margin-top: 24px;
+}
+
+.second_input_card {
+    padding: 40px 40px;
+    width: 440px;
+    height: 278px;
+    border-radius: 10px;
+    background: var(--Asosiy-White, #FFF);
+    margin-top: 18px;
+}

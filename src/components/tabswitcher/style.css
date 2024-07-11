@@ -1,0 +1,84 @@
+
+
+.property {
+    color: var(--Asosiy-White, #FFF);
+    font-family: Outfit;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 26px;
+    border-radius: 6px;
+    background:  #FF6F14;
+    padding: 14px 32px;
+}
+.property2 {
+    color: var(--Asosiy-White, #FFF);
+    font-family: Outfit;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 26px;
+    border-radius: 6px;
+    background:  #a37e68;
+    padding: 14px 32px;
+}
+
+
+.comment {
+    color: var(--Asosiy-Black, #331400);
+    font-family: Outfit;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 26px;
+    border-radius: 6px;
+    background: var(--Asosiy-White, #FFF);
+    padding: 14px 32px;
+}
+
+.brand {
+    width: 224px;
+    height: 26px;
+    color: var(--Text-Black80, rgba(36, 14, 0, 0.80));
+
+    /* H5/Bod3/Reguler 18 px */
+    font-family: Outfit;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 26px;
+    /* 144.444% */
+}
+
+.sub_brand {
+    width: 235px;
+    height: 26px;
+    color: var(--Text-Black80, rgba(36, 14, 0, 0.80));
+
+    /* H5/Bod3/Reguler 18 px */
+    font-family: Outfit;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 26px;
+    /* 144.444% */
+}
+
+.all_products2 {
+    padding: 60px 80px;
+    width: 707px !important;
+    height: 153px !important;
+    border-radius: 10px;
+    background: #fff !important;
+    margin-top: 30px;
+    /* padding-bottom: 60px; */
+}
+.all_products {
+    padding: 60px 80px;
+    width: 820px;
+    height: 542px;
+    border-radius: 10px;
+    background: #F5F5F5;
+    margin-top: 30px;
+    /* padding-bottom: 60px; */
+}

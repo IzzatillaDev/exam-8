@@ -1,0 +1,26 @@
+.search {
+    width: 400px;
+    height: 46px;
+    border-radius: 6px;
+    background: #F0F0F0;
+
+    &::after {
+        content: "";
+        display: inline-block;
+        width: 16px;
+        height: 16px;
+        background-image: url("../../../assets/search.svg");
+        background-repeat: no-repeat;
+    }
+}
+
+
+@media screen and (max-width: 900px) {
+    .search {
+        width: 230px;
+        height: 46px;
+        border-radius: 6px;
+        background: #F0F0F0;
+    }
+
+}
